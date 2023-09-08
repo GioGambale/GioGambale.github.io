@@ -63072,7 +63072,7 @@ A.a2T.prototype={
 $0(){A.e_(this.a.c)},
 $S:0}
 A.a2W.prototype={
-$0(){A.e_("https://github.com/AgnelSelvan/AgnelSelvan.github.io/raw/main/assets/files/Agnel-Selvan.pdf")},
+$0(){A.e_("https://github.com/GioGambale/GioGambale.github.io/cv/CV_Gambale.pdf")},
 $S:0}
 A.Al.prototype={
 P(a){var s,r,q,p=null,o=t.w,n=A.b7(a,p,o).w
